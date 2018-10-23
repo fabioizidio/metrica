@@ -1,5 +1,5 @@
 # project name and programming language
-project('com.github.fabioizidio.Metrica', 'vala', 'c', version: '0.1.0')
+project('com.github.fabioizidio.metrica', 'vala', 'c', version: '0.1.0')
 
 message ('project name and programming language')
 
